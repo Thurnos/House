@@ -1,0 +1,7 @@
+Company:Globex Corporation, Employee: Todor I., Building: Address1, ApartmentID: 1, AmountPaid: 272.88, PaymentDate: 2024-01-28 19:50:53
+Company:Globex Corporation, Employee: Todor I., Building: Address1, ApartmentID: 1, AmountPaid: 272.88, PaymentDate: 2024-01-28 19:51:39
+Company:Globex Corporation, Employee: Todor I., Building: Address1, ApartmentID: 1, AmountPaid: 272.88, PaymentDate: 2024-01-28 20:19:12
+Company:MNG+ Solutions, Employee: Martin J.Building: Sample Address, ApartmentID: 12, AmountPaid: 264.00, PaymentDate: 2024-01-29 12:26:03
+Company: Manager For A Day, Employee: Martin J., Building: Address1, ApartmentID: 3, AmountPaid: 205.92, PaymentDate: 2024-01-29 12:27:05
+Company: Manager For A Day, Employee: Martin J., Building: Sample Address, ApartmentID: 13, AmountPaid: 205.92, PaymentDate: 2024-01-29 12:42:46
+Company: null, Employee: null, Building: Address1, ApartmentID: 1, AmountPaid: 296.88, PaymentDate: 2024-01-30 09:15:28
